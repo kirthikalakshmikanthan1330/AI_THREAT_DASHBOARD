@@ -1,8 +1,7 @@
 # 🛡️ CyberShield Pro — AI Cyber Threat Analyzer
 
-A professional cybersecurity dashboard powered by Machine Learning (Random Forest + TF-IDF)
-with a dark-themed, enterprise-grade analytics UI.
-
+This repository focuses on the application of Artificial Intelligence (AI) in the field of Cybersecurity. It explores how intelligent systems can be used to detect, prevent, and respond to cyber threats effectively.
+The goal of this repository is to provide a structured understanding of how AI techniques enhance modern security systems.
 ---
 
 ## 📁 Project Structure
